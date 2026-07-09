@@ -1,0 +1,9 @@
+{
+  "algorithm": "hist_gradient_boosting",
+  "r2_test": 0.8799550117317078,
+  "mae_test": 139.42340704231668,
+  "interval_coverage_90pct_nominal": 0.87825,
+  "n_train": 80000,
+  "n_test": 20000,
+  "n_features_encoded": 133
+}
